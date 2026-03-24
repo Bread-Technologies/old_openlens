@@ -35,7 +35,7 @@ No credit card. No trial. No sales call.
 ## Links
 
 - 🌐 [tryopenlens.com](https://tryopenlens.com)
-- 📰 [Press Release](https://www.openpr.com/news/4435982/openlens-launches-free-ai-visibility-platform-to-track-brand)
+- 📰 [Press Release](https://www.barchart.com/story/news/897442/openlens-launches-free-ai-visibility-platform-to-track-brand-mentions-across-chatgpt-claude-google-ai-perplexity-and-deepseek)
 
 ## About
 
