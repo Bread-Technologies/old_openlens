@@ -2,9 +2,9 @@
 
 **See how AI talks about your brand.**
 
-[OpenLens](https://tryopenlens.com) queries ChatGPT, Claude, Google AI, Perplexity, and DeepSeek with the same questions your customers ask — then shows you exactly what each one says.
+[OpenLens](https://openlens.com) queries ChatGPT, Claude, Google AI, Perplexity, and DeepSeek with the same questions your customers ask — then shows you exactly what each one says.
 
-🔗 **Try it free:** [tryopenlens.com](https://tryopenlens.com)
+🔗 **Try it free:** [openlens.com](https://openlens.com)
 
 ## This Repo
 
@@ -34,7 +34,7 @@ No credit card. No trial. No sales call.
 
 ## Links
 
-- 🌐 [tryopenlens.com](https://tryopenlens.com)
+- 🌐 [openlens.com](https://openlens.com)
 - 📰 [Press Release](https://www.barchart.com/story/news/897442/openlens-launches-free-ai-visibility-platform-to-track-brand-mentions-across-chatgpt-claude-google-ai-perplexity-and-deepseek)
 
 ## About
