@@ -1,8 +1,8 @@
-# OpenLens — Free AI Visibility Platform
+# OpenLens — AI Visibility Built for Agencies
 
 **See how AI talks about your brand.**
 
-[OpenLens](https://openlens.com) queries ChatGPT, Claude, Google AI, Perplexity, and DeepSeek with the same questions your customers ask — then shows you exactly what each one says.
+[OpenLens](https://openlens.com) queries ChatGPT, Google AI, Perplexity, and DeepSeek with the same questions your customers ask — then shows you exactly what each one says.
 
 🔗 **Try it free:** [openlens.com](https://openlens.com)
 
@@ -18,7 +18,7 @@ We read everything.
 
 ## What OpenLens Does
 
-OpenLens tracks your brand's presence across five major AI platforms:
+OpenLens tracks brand presence across four major AI platforms:
 
 - **Visibility by platform** — How often you get mentioned, measured as a percentage of relevant queries
 - **Attribute breakdown** — What each AI model thinks about your strengths and weaknesses
